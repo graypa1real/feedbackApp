@@ -6,9 +6,10 @@ Users are prevented from retaking surveys.
 
 
 Technologies Used
-Tech 1 - version 1.0
-Tech 2 - version 2.0
-Tech 3 - version 3.0
+xCode - version 12.3
+iOS Deployment targer - iOS 14.3
+
+
 Features
 List of features ready and TODOs for future development
 
@@ -18,8 +19,9 @@ Animation during launch of the app.
 
 Getting Started
 colen : https://github.com/graypa1real/feedbackApp.git
-written in xcode 12.3
-iOS Deployment Target iOS 14.3
+
+if iOS 14.3 not installed go into Project1.xcodeproj and under build settings change iOS Deployment target to a version already installed,
+
 
 
 
